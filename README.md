@@ -7,3 +7,4 @@ The goal of this project is to accurately identify the type of a plant leave, sp
 
 I used tensorflow/keras to build a model with training data.(200 pics/ class)
 
+https://github.com/pinkpop/plant_disease_identification/blob/main/plant_disease_classification.ipynb
